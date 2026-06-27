@@ -12,6 +12,10 @@ Pipeline: EfficientNet-B0 (ImageNet-pretrained) + Ben Graham intensity harmonisa
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JonnyCerullo/aptos-dr-grading/blob/main/aptos-dr-grading.ipynb)
 
+## Document
+
+[Final report (PDF)](aptos-dr-grading-report.pdf) — full project report following the AI for Medicine course template (Prof. Stefano Diciotti, University of Bologna).
+
 ## Setup
 
 1. Create a free Kaggle account, generate an API token in the new KGAT_ format, and store it as a Colab secret named `KAGGLE_API_TOKEN` with notebook access enabled.
